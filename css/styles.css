@@ -23,8 +23,12 @@
   color: floralwhite;
 }
 
-.address {
+address {
   font-size: 80%;
   margin: 0px;
   color: #0f0f0f;
+}
+
+.teste {
+  border: 2px ridge red;
 }
