@@ -1,0 +1,1 @@
+copyfiles, imagemin-cli must be installed globally for npm scripts to work. Also grunt-cli for grunt scripts.
